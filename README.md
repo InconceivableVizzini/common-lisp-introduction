@@ -1,4 +1,6 @@
-# Introduction to Common Lisp
+# λ
+
+## Introduction to Common Lisp
 
 This is a small getting started guide to Common Lisp using the free software SBCL implementation. This guide covers starting a new project using Quicklisp and building a binary executable using ASDF.
 
